@@ -34,18 +34,18 @@ Rating text : text on the basis of rating of rating
 Votes : Number of ratings casted by people
 
 *Country codes:
-1 India
-14  Australia
-30  Brazil
-37  Canada
-94  Indonesia
-148 New Zeland
-162 Phillipenes
-166 Qatar
-184 Singapore
-189 South Africa
-191 Sri Lanka
-208 Turkey
-214 UAE
-215 UK
-216 USA
+1 - India;
+14 - Australia;
+30 - Brazil;
+37 - Canada;
+94 - Indonesia;
+148 - New Zeland;
+162 - Phillipenes;
+166 - Qatar;
+184 - Singapore;
+189 - South Africa;
+191 - Sri Lanka;
+208 - Turkey;
+214 - UAE;
+215 - UK;
+216 - USA;
